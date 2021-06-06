@@ -4,7 +4,7 @@ A few facts about me:
 - Ruby developer (not only rails btw :open_mouth: )
 - Passionate about self-education :books:
 - Big fan of self-management and efficiency
-- Studying psychology (and why my brain procrastinates sometimes 🤷)
+- Studying psychology (especially why my brain procrastinates sometimes 🤷)
 
 
 I’m currently learning:
