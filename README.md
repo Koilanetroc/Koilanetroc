@@ -2,8 +2,8 @@
 
 A few facts about me:
 - Ruby developer (not only rails btw :open_mouth: )
-- Passionate about self-education :blue_book:
-- Big fan of self-management and efficiency 🤔
+- Passionate about self-education :books:
+- Big fan of self-management and efficiency
 - Studying psychology (and why my brain procrastinates sometimes 🤷)
 
 
