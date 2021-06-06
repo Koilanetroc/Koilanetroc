@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello there, I'm Oleg ✋
 
-<!--
-**Koilanetroc/Koilanetroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A few facts about me:
+- Ruby developer (not only rails btw :open_mouth: )
+- Passionate about self-education :blue_book:
+- Big fan of self-management and efficiency 🤔
+- Studying psychology (and why my brain procrastinates sometimes 🤷)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning:
+- Golang ✨
+- Clean architecture 🔥
+- How to be a nice teamlead :v: (thanks to [tlroadmap](https://github.com/tlbootcamp/tlroadmap))
+
+---
+My other socials:
+- [Linkedin](https://www.linkedin.com/in/koilas/)
+- [GoodReads profile](https://www.goodreads.com/user/show/99827775-oleg-tolmashov) with books I've read / reading / going to read
+- [Telegram](https://t.me/koilas)
+- Twitter - not yet but maybe soon 🙃
