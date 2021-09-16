@@ -8,8 +8,7 @@ A few facts about me:
 
 
 I’m currently learning:
-- Golang ✨
-- Clean architecture 🔥
+- Microservices architecture 🔥
 - How to be a nice teamlead :v: (thanks to [tlroadmap](https://github.com/tlbootcamp/tlroadmap))
 
 ---
