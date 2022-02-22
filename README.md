@@ -1,4 +1,4 @@
-### Hello there, I'm Oleg ✋
+### Hello there, I'm Oleg 👋
 
 A few facts about me:
 - Ruby developer (not only rails btw :open_mouth: )
