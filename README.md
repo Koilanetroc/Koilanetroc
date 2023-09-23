@@ -12,7 +12,7 @@ I’m currently learning:
 
 ---
 My other socials:
-- [Linkedin](https://www.linkedin.com/in/koilas/)
+- [Linkedin](https://www.linkedin.com/in/oleg-tolmashov/)
 - [GoodReads profile](https://www.goodreads.com/user/show/99827775-oleg-tolmashov) with books I've read / reading / going to read
 - [Telegram](https://t.me/koilas)
 - Twitter - not yet but maybe soon 🙃
